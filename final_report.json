@@ -1,0 +1,29 @@
+{
+  "filters": {
+    "untracked": 1,
+    "total": 1,
+    "passed": 1,
+    "marker_counts": {}
+  },
+  "results": [
+    {
+      "test": "test_login",
+      "nodeid": "tests/test_login.py::test_login",
+      "status": "passed",
+      "duration": 3.8214365830644965,
+      "trace": null,
+      "error": null,
+      "markers": [],
+      "file": "tests/test_login.py",
+      "line": 2,
+      "stdout": "",
+      "stderr": "",
+      "timestamp": "2025-12-08T12:13:11.149065Z",
+      "screenshot": "screenshots",
+      "logs": [],
+      "worker": "main",
+      "links": [],
+      "flaky": false
+    }
+  ]
+}
